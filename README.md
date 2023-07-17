@@ -1,6 +1,8 @@
 # Simon-Game
 The Simon game is a classic memory game where players need to repeat a sequence of colors and sounds. 
 
+<img src="https://drive.google.com/uc?export=view&id=1N5UiPjnRrlImHtG1FwG2DKK02LUGYJXl">
+
 Try the app out [here](https://tristantanjh.github.io/Simon-Game/)!
 
 ## Features
