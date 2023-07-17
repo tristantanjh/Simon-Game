@@ -1,5 +1,5 @@
 # Simon-Game
-The Simon game is a classic memory game where players need to repeat a sequence of colors and sounds. 
+The Simon game is a classic memory game where players need to repeat a sequence of colors and sounds. It was created as part of the "Complete 2023 Web Development Bootcamp" by Angela Yu.
 
 <img src="https://drive.google.com/uc?export=view&id=1N5UiPjnRrlImHtG1FwG2DKK02LUGYJXl">
 
